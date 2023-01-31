@@ -19,3 +19,4 @@
 3.2 Retour à ligne  
 3.3 Lignes horizontales  
 3.4 Blocs de citation  
+4. Les diagrammes
