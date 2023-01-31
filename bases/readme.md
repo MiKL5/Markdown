@@ -10,7 +10,9 @@ Comme avec html, il existe 6 titres.
 ## Mise en page
 
 ### Les paragraphes  
-Il n'y a pas de balise. Par contre, pour aller à la ligne il faut faire deux espaces.
+Il n'y a pas de balise. Par contre, pour aller à la ligne il faut faire deux espaces.  
+Ce symbole `>` permet la citation. Plus il y a de `>`plus l'indentation est importante.    
+> Ceci est une citation
 
 ### Mettre en italique
 

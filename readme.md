@@ -10,14 +10,9 @@
 ### C’est aussi le langage de balisage choisi par de nombreuses plateformes d’écriture collaborative. Il existe plusieurs logiciels permettant de rédiger le **Markdown** en temps réel sur le web, comme _CodiMD_, _Etherpad_ ou _Firepad_.
 ---
 
-1. Bases de la syntaxe  
-1.1 Gras italiques et souligné  
-1.2 Les titres et séparateurs  
-1. Les liens et les images  
-1. Les liste  
-3.1 Blocs de Code  
-3.2 Retour à ligne  
-3.3 Lignes horizontales  
-3.4 Blocs de citation  
-4. [Les tableaux](table)
-4. [Les diagrammes](diagrams)
+1. [Bases de la syntaxe](bases)  
+1. [Les liens et les images](links)  
+1. [Les liste](list)  
+1. [Les tableaux](table)  
+1. [Blocs de Code](bloc)  
+1. [Les diagrammes](diagrams)
