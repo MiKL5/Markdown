@@ -1,6 +1,5 @@
 # **Markdown**<img align="right" src="src/Markdown-mark.svg" alt="Markdown" title="Markdown" widht="auto" height="128px">
 
-# Késako
 ###  En français **_démarque_**. **Markdown** est un langage de balisage de texte léger, qui permet de créer du contenu pour Internet de manière simple et rapide. Il utilise une syntaxe simple pour la mise en forme du texte, comme les titres, les listes, les liens, etc., cette syntaxe est aussi simple à lire et peut être converti en HTML ou en PDF et quelques autres formats.
 ### Créer en 2004 par John Gruber et Aaron Swarz, **Markdown** n'a pas connu d'évolution notable de la part de ses auteurs et n'a jamais été formellement standardisé.
 ### Quelques variantes ont été développées afin de pallier ce qui a été perçu comme des limitations inhérentes à la syntaxe très simplifiée.
