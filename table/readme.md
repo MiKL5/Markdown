@@ -1,6 +1,6 @@
 # Les tableaux[¹]
 
-L'entête est séparé par 3 `-` par colonne, 1 ou 2 tirets peuvent-être remplacés par `:` pour aligner. Les colonnes sont séparées par `|` la barre verticale.
+L'entête est séparé par 3 traits d'union `-` par colonne, 1 ou 2 traits d'union peuvent-être remplacés par `:` pour aligner. Les colonnes sont séparées par `|` la barre verticale.
 
 ```md
 Colonne 1 | Colonne 2 | Colonne 3 | Colonne 4
