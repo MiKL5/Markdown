@@ -1,14 +1,34 @@
 # **Les bases de la syntaxe**
 
 ## Les **titres**
+Comme avec html, il existe 6 titres.  
+# # Le titre principal
+## ## Le titre de niveau 2
+#### #### Petit titre
+###### ###### Attend un peu qu'j'mette mes lunettes
 
-## Les paragraphe
+## Mise en page
 
-## Un peu plus loin
+### Les paragraphes  
+Il n'y a pas de balise. Par contre, pour aller à la ligne il faut faire deux espaces.
 
-Gras
-iltalique
+### Mettre en italique
 
-## Et la lisibilité au milieu de toutes ces balises ?
+```md
+*Italique* ou _Italique_
+```
+=> _Italique_
 
-gras italique
+### Mettre en gras
+
+```md
+**Gras** ou __Gras__
+```
+=> **Gras**  
+
+### Mettre en gras et italique
+
+```md
+***Gras et Italique*** ou  __Gras et Italique__ ou **_Gras et italique_**
+```
+=> **_Gras et italique_**
