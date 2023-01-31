@@ -31,22 +31,6 @@ graph TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 ```
-Comme les diagrammes de séquences : 
-```
-    ```marmaid
-    sequenceDiagram
-        Alice->>+John: Hello John, how are you?
-        Alice->>+John: John, can you hear me?
-        John-->>-Alice: Hi Alice, I can hear you!
-        John-->>-Alice: I feel great!
-    ```
-```
-```marmaid
-sequenceDiagram
-    Alice->>+John: Hello John, how are you?
-    Alice->>+John: John, can you hear me?
-    John-->>-Alice: Hi Alice, I can hear you!
-    John-->>-Alice: I feel great!
-```
+Comme les diagrammes de séquences par exemple. 
 
 La [documentation](https://mermaid.js.org/ "doc de Mermaid.js") de Mermaid.js détaille les possibilités, ce [site](https://mermaid.live/ "Mermaid Live Editor") permet de tester la syntaxe. Le [dépôt](https://github.com/mermaid-js/mermaid "dépôt de Mermaid") de Mermaid et celui de [Mermaid.js](https://github.com/mermaid-js/ "dépôt de Mermaid.js") pour en apprendre plus.
