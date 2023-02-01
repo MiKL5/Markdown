@@ -1,4 +1,4 @@
-# **Markdown**<img align="right" src="src/Markdown-mark.svg" alt="Markdown" title="Markdown" widht="auto" height="128px">
+# **Markdown**<img align="right" src="src/Markdown-mark.svg" alt="Markdown" title="Markdown" widht="auto" height="64px">
 
 ####  En français **_démarque_**. **Markdown** est un langage de balisage de texte léger, qui permet de créer du contenu pour Internet de manière simple et rapide. Il utilise une syntaxe simple pour la mise en forme du texte, comme les titres, les listes, les liens, etc., cette syntaxe est aussi simple à lire et peut être converti en HTML ou en PDF et quelques autres formats.
 #### Créer en 2004 par John Gruber et Aaron Swarz, **Markdown** n'a pas connu d'évolution notable de la part de ses auteurs et n'a jamais été formellement standardisé.
@@ -13,6 +13,6 @@
 1. [Les liens et les images](links)  
 1. [Les liste](list)  
 1. [Les tableaux](table)  
-1. [Blocs de Code](bloc)  
+1. [Les blocs de Code](bloc)  
 1. [Les diagrammes](diagrams)
-1. [Notes de bas de page](footnote)
+1. [Les notes de bas de page](footnote)
