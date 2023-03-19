@@ -4,4 +4,4 @@ C'est parfois nécessaire de mettre des rappels plus bas pour éviter d'alourdir
 
 De crochets `[ ]`contenant un accent circonflexe `^`et un chiffre ou nombre.
 
-[¹] Ça n'est pas avec les symboles ni les émojis.
+[¹] Ça n'est pas possible avec les symboles ni les émojis.
