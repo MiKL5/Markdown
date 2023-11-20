@@ -34,3 +34,22 @@ Ce symbole `>` permet la citation. Plus il y a de `>`plus l'indentation est impo
 ***Gras et Italique*** ou  __Gras et Italique__ ou **_Gras et italique_**
 ```
 => **_Gras et italique_**
+
+### Barré le texte
+```md
+~~Ceci est du texte erroné~~
+```
+
+### Exposant
+
+```md
+Cette balise met le texte <sup>en exposant</sup>.
+```
+Cette balise met le texte <sup>en exposant</sup>.
+
+### Indice
+
+```md
+Cette balise pour mettre en <sub>indice</sub>
+```
+Cette balise pour mettre en <sub>indice</sub>
