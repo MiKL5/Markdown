@@ -20,6 +20,14 @@ Chaque élément est précédé d'un astérisque `*` ou d'un trait d'union `-`.
         - élément 5
             - élément 6
                 - élément 7
+
+- élément 1
+    = élément 2
++ élément 3 
+    + élément 4
+        + élément 5
+            + élément 6
+                + élément 7
 ```
 > affiche :
 * élément 1
